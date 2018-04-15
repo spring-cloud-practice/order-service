@@ -7,7 +7,7 @@ import com.sudhirt.practice.orderservice.domain.Order;
 import com.sudhirt.practice.orderservice.dto.*;
 import com.sudhirt.practice.orderservice.client.CatalogServiceClient;
 import com.sudhirt.practice.orderservice.domain.Item;
-import com.wmis.practice.orderservice.dto.*;
+import com.sudhirt.practice.orderservice.dto.*;
 import com.sudhirt.practice.orderservice.exception.NotFoundException;
 import com.sudhirt.practice.orderservice.repository.OrderRepository;
 import org.springframework.beans.factory.annotation.Autowired;
