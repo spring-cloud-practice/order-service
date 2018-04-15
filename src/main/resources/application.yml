@@ -1,0 +1,10 @@
+server:
+  port: 8085
+spring:
+  application:
+    name: order-service
+  jpa:
+    database: hsql
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: true
